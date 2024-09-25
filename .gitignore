@@ -1,0 +1,15 @@
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Java build
+*.class
+.classpath
+target/
+
+# C build
+Debug/
+Release/
+bin/
+*nowplaying-natives*
